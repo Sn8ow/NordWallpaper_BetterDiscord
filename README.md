@@ -1,0 +1,2 @@
+# NordWallpaper_BetterDiscord
+Wallpaper
