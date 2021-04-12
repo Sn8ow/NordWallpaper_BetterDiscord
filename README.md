@@ -1,2 +1,2 @@
 # NordWallpaper_BetterDiscord
-Wallpaper
+Nord.css
